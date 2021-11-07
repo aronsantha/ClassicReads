@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "author": "Leo Tolstoy",
+        "title": "War and Peace",
+        "price": 305,
+        "currency": "kr",
+        "photo": "../images/warandpeace.jpg",
+        "publisher": "Penguin Classics",
+        "format": "Hardback",
+        "language": "English",
+        "length": "1424",
+        "ISBN": "0143039997"
+    },
+    {
+        "id": 2,
+        "author": "F. Scott Fitzgerald",
+        "title": "The Great Gatsby",
+        "price": 154,
+        "currency": "kr",
+        "photo": "../images/thegreatgatsby.jpg",
+        "publisher": "Random House",
+        "format": "Paperback",
+        "language": "English",
+        "length": "192",
+        "ISBN": "9780593311844"
+    },
+    {
+        "id": 3,
+        "author": "Ray Bradbury",
+        "title": "Fahrenheit 451",
+        "price": 78,
+        "currency": "kr",
+        "photo": "../images/fahrenheit451.jpg",
+        "publisher": "Simon & Schuster",
+        "format": "Paperback",
+        "language": "English",
+        "length": "249",
+        "ISBN": "9781451673319"
+    },
+    {
+        "id": 4,
+        "author": "Arthur Conan Doyle",
+        "title": "The Adventures of Sherlock Holmes",
+        "price": 89,
+        "currency": "kr",
+        "photo": "../images/sherlockholmes.jpg",
+        "publisher": "Oxford Press",
+        "format": "Paperback",
+        "language": "English",
+        "length": "448",
+        "ISBN": "9780199536955"
+    },
+    {
+        "id": 5,
+        "author": "Dante Alighieri",
+        "title": "La Divina Commedia - Inferno",
+        "price": 125,
+        "currency": "kr",
+        "photo": "../images/dante.jpg",
+        "publisher": "Mondarori",
+        "format": "Paperback",
+        "language": "Italian",
+        "length": "1179",
+        "ISBN": "9788804546542"
+    },
+    {
+        "id": 6,
+        "author": "Antoine de Saint-Exupery",
+        "title": "Le Petit Prince",
+        "price": 118,
+        "currency": "kr",
+        "photo": "../images/prince.jpg",
+        "publisher": "Gallimard",
+        "format": "Paperback",
+        "language": "French",
+        "length": "97",
+        "ISBN": "9782070408504"
+    },
+    {
+        "id": 7,
+        "author": "Homer",
+        "title": "The Odyssey",
+        "price": 145,
+        "currency": "kr",
+        "photo": "../images/odyssey.jpg",
+        "publisher": "Penguin Classics",
+        "format": "Hardback",
+        "language": "English",
+        "length": "256",
+        "ISBN": "9786180121650"
+
+    }
+]
